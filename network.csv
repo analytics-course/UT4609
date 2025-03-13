@@ -1,0 +1,7 @@
+source,target,edge_type,cost,time,dist
+1,21,road,1,100,10
+21,31,road,1,200,20
+21,22,interchange,0,0,0
+32,31,interchange,0,0,0
+31,4,road,1,100,10
+22,32,metro,5,20,20
